@@ -1,1 +1,4 @@
-meu time do coração
+time do coração: vasco
+nome: max
+cidade: capão da canoa
+idade: 19
